@@ -42,7 +42,7 @@ Tutorial: https://github.com/minhtule/Tapster-iOS-Demo/blob/master/TUTORIAL.md
 
 PS3/PS4 game Recommendation built by [pashadude](https://github.com/pashadude/)
 
-URL: http://nogoodgamez.com
+URL: http://nogoodgamez.com *deprecated*
 
 
 ## OnTapp
@@ -53,7 +53,7 @@ Beer recommendation app built by [Victor Leung](https://twitter.com/victorleungt
 
 URL: http://ontappapp.com/
 
-Writeup: http://victorleungtw.com/prediction-io/
+Writeup: http://victorleungtw.com/prediction-io/ *deprecated*
 
 
 ## Yelpio
@@ -63,4 +63,4 @@ Writeup: http://victorleungtw.com/prediction-io/
 
 Business Recommendation built by [TRAN QUOC HOAN](https://twitter.com/k09ht), [Inhwan Lee](https://github.com/ihlee01), and 山本直人.
 
-URL: http://yelpio.hongo.wide.ad.jp/
+URL: http://yelpio.hongo.wide.ad.jp/ *deprecated*
